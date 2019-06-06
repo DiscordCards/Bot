@@ -1,0 +1,31 @@
+{
+	"token": "",
+	"prefix": {
+		"default": "[]",
+		"use_name": true
+	},
+	"owner": "158049329150427136",
+	"devs": [
+		"120627061214806016",
+		"141610251299454976"
+	],
+	"dbotsgg": "",
+	"carbon": "",
+	"dborg": "",
+  "listcord": "",
+	"r": {
+		"user": "",
+		"password": "",
+		"url": "",
+		"port": 28015,
+		"db": ""
+	},
+	"report_url": "",
+	"status_url": "",
+	"lnotif": "",
+	"weblate": "",
+	"weblate_url": "",
+	"shards": 4,
+	"debug": false,
+	"version": "1.8.0 Dock"
+}

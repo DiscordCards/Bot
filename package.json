@@ -1,0 +1,34 @@
+{
+  "name": "discordcards",
+  "version": "1.7.1",
+  "description": "A Discord Bot simulating trading cards",
+  "main": "sharding_main.js",
+  "scripts": {
+    "start": "node sharding_main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DiscordCards/Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DiscordCards/Tracker/issues"
+  },
+  "author": "Snazzah (SnazzyPine25)",
+  "license": "Apache-2.0",
+  "homepage": "https://discord.cards",
+  "dependencies": {
+    "gm": "^1.23.0",
+    "chalk": "^1.1.3",
+    "discord.js": "^11.5.1",
+    "entities": "^1.1.1",
+    "fuse.js": "^2.5.0",
+    "fuzzy": "^0.1.3",
+    "request": "^2.72.0",
+    "rethinkdb": "^2.3.3",
+    "jimp": "^0.2.27",
+    "cache-manager": "^2.4.0",
+    "cache-manager-redis": "^0.4.0",
+    "superagent": "^3.5.2",
+    "levenshtein": "^1.0.5"
+  }
+}
